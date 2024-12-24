@@ -83,6 +83,12 @@ RegisterNumber:24900714
 ![WhatsApp Image 2024-12-23 at 14 17 29_4988acfe](https://github.com/user-attachments/assets/bd7bf850-26a4-4cc2-8336-ca0bce238618)
 
 
+**TRUTH TABLE**
+
+![WhatsApp Image 2024-12-21 at 08 38 44_67bb791c](https://github.com/user-attachments/assets/d69a89b7-392c-4520-b2c4-f70237a79a0b)
+
+
+
 **RESULTS**
 
 Thus implementation of SISO Shift Register using verilog and validating their functionality using their functional tables is verified.
