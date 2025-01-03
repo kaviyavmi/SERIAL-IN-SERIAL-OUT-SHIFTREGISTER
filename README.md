@@ -23,6 +23,11 @@ Figure 01 4 Bit SISO Register
 The synchronous nature of the flip-flops ensures that the shifting of data occurs in a coordinated manner. When the clock signal rises, the input data is sampled and stored in the first flip-flop. On subsequent clock pulses, the stored data propagates through the flip-flops, moving from one flip-flop to the next.
 Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and an output (Q). The D input represents the data to be loaded into the flip-flop, while the CLK input is connected to the common clock signal. The output (Q) of each flip-flop is connected to the D input of the next flip-flop, forming a cascade.
 
+**TRUTH TABLE**
+
+![WhatsApp Image 2024-12-21 at 08 38 44_67bb791c](https://github.com/user-attachments/assets/d69a89b7-392c-4520-b2c4-f70237a79a0b)
+
+
 **Procedure**
 
 1.Type the program in Quartus software.
@@ -77,16 +82,10 @@ RegisterNumber:24900714
 ![WhatsApp Image 2024-12-23 at 14 17 25_c88398e6](https://github.com/user-attachments/assets/be041809-df67-4890-879d-27d252a97591)
 
 
-**TIMING DIGRAMS FOR SISO Shift Register**
+**TIMING DIAGRAMS FOR SISO Shift Register**
 
 
 ![WhatsApp Image 2024-12-23 at 14 17 29_4988acfe](https://github.com/user-attachments/assets/bd7bf850-26a4-4cc2-8336-ca0bce238618)
-
-
-**TRUTH TABLE**
-
-![WhatsApp Image 2024-12-21 at 08 38 44_67bb791c](https://github.com/user-attachments/assets/d69a89b7-392c-4520-b2c4-f70237a79a0b)
-
 
 
 **RESULTS**
